@@ -1,0 +1,8 @@
+package hebbal.typecasting;
+
+public class Animal {
+	public void print()
+	{
+		System.out.println("I am an animal ");
+	}
+}

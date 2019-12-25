@@ -1,0 +1,8 @@
+package hebbal.ds;
+
+public class Stack {
+	private int top = -1;
+	private int size;
+	private int s[];
+	
+}
